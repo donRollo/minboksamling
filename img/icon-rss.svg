@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>RSS ikon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop---Startsida" transform="translate(-161.000000, -1050.000000)">
+            <g id="Nyheter" transform="translate(158.000000, 983.000000)">
+                <g id="RSS" transform="translate(4.000000, 67.000000)">
+                    <g id="RSS-ikon" transform="translate(0.000000, 1.000000)">
+                        <circle id="Oval-7" stroke="#CEE2F2" fill="#CEE2F2" cx="9.5" cy="9.5" r="9.5"></circle>
+                        <circle id="Oval-8" stroke="#0C457E" stroke-width="0.6" fill="#0C457E" cx="7" cy="12" r="1"></circle>
+                        <path d="M6,8 L6,9.71871084 C8.54243674,9.79353954 9.93091301,11.0718135 10.1654288,13.5535328 L11.9080278,13.5535328 C11.7055024,10.3781062 9.92293495,8.52692858 6.56032541,8 L6,8 Z" id="Path-14" stroke="#0C457E" stroke-width="0.1" fill="#0C457E"></path>
+                        <path d="M6,5 L6,6.63119817 C10.4560236,7.00190081 12.8842191,9.31520605 13.2845866,13.5711139 L15,13.5711139 C14.6611474,8.47778735 11.8391753,5.62074939 6.53408386,5 L6,5 Z" id="Path-15" stroke="#0C457E" stroke-width="0.1" fill="#0C457E"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

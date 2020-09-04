@@ -1,0 +1,90 @@
+/* Bredd på select2 */
+.select2-container {
+    min-width: 200px;
+    font-family: "Lucida Sans", Verdana, sans-serif;
+}
+
+/* bakgrund */
+.select2-container--open .select2-dropdown--below,
+.select2-container--open .select2-dropdown--above {
+    background: #666666;
+    color: #ffffff;
+}
+
+/* hover */
+.select2-container--flat .select2-results__option--highlighted[aria-selected] {
+  background: #4d4d4d !important;
+  color: #ffffff;
+}
+
+/* den som är vald */
+.select2-container--flat .select2-results__option[aria-selected=true] {
+  background: #4d4d4d;
+  color: #fff;
+  opacity: 0.8;
+}
+
+/* rundning i toppen */
+.select2-container--flat .select2-selection--single {
+  border-radius: 0px;
+}
+
+/* höjd och färg på sökrutan */
+.select2-container--flat span.select2-search input {
+  height: 30px !important;
+  background: #ffffff;
+  color: #666666;
+  border: 2px solid #ffffff;
+}
+
+/* margin ovanför sökrutan */
+.select2-search {
+  margin-top: 3px;
+}
+
+/* border i sökrutan */
+.select2-search input {
+  height: 26px;
+  border: 2px solid #dce4ec;
+}
+
+/* Bakom rubriken */
+.select2-container--flat .select2-selection--single {
+  background: #4d4d4d;
+  border: 0px;
+  height: 34px;
+}
+
+/* Färg på rubriken */
+.select2-container--flat .select2-selection--single .select2-selection__rendered {
+  color: #fff;
+  line-height: 34px;
+}
+
+/* Positionerar pilen */
+.select2-container--flat .select2-selection--single .select2-selection__arrow {
+  height: 26px;
+  position: absolute;
+  top: 1px;
+  right: 1px;
+  width: 20px;
+}
+
+/* Färg på pilen */
+.select2-container--flat .select2-selection--single .select2-selection__arrow b {
+  border-color: #fff transparent transparent transparent;
+  top: 60%;
+  border-style: solid;
+  border-width: 5px 4px 0 4px;
+  height: 0;
+  left: 50%;
+  margin-left: -4px;
+  margin-top: -2px;
+  position: absolute;
+  width: 0;
+}
+.select2-container--flat .select2-results .select2-results__options{
+  min-height: 250px;
+  max-height: 250px;
+  overflow-y: auto;
+}

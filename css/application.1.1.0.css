@@ -1,0 +1,99 @@
+body, html {
+		height: 101%;
+		background-color: #000000;
+		font-family: arial;
+}
+h2 {
+		font-size: 20px;
+		font-family: arial black;
+}
+h3 {
+		font-size: 16px;
+		font-family: arial black;
+}
+h5 {
+		font-size: 12px;
+}
+
+a.top-link {
+    color: #ffffff;
+    font-size: 18px;
+    font-family: arial black;
+    text-decoration: none;
+}
+a:hover.top-link {
+    border-bottom: 3px solid;
+}
+a.top-link-active {
+    color: #ffffff;
+    font-size: 18px;
+    font-family: arial black;
+    text-decoration: none;
+    border-bottom: 3px solid;
+}
+
+a.contact-link {
+    color: #ffffff;
+    font-size: 12px;
+    font-family: arial;
+    text-decoration: none;
+}
+a:hover.contact-link {
+    border-bottom: 1px solid;
+}
+
+.myBlur {
+  -webkit-filter: blur(10px);
+}
+
+tr:nth-child(even) {
+  background: #404040
+}
+
+.myAddAccordian-content {
+		display: none;
+}
+
+
+/* The popup form */
+.form-popup {
+  display: none;
+  position: absolute;
+  top: 80;
+  left: 35%;
+  margin-right: -70%;
+  z-index: 9;
+}
+.form-container {
+  max-width: 300px;
+  padding: 10px;
+  background-color: #404040;
+}
+.form-container input[type=text], .form-container input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+.form-container input[type=text]:focus, .form-container input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+.form-container .btn {
+  background-color: #666666;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom:10px;
+  opacity: 0.8;
+  font-weight: bold; 
+}
+.form-container .cancel {
+  background-color: #666666;
+}
+.form-container .btn:hover, .open-button:hover {
+  opacity: 1;
+}

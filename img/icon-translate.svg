@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="13px" viewBox="0 0 15 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 10</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop---Öppenvård" transform="translate(-1047.000000, -14.000000)" fill="#000000" stroke-width="0.1">
+            <g id="Group-2">
+                <g id="Subnav">
+                    <g id="Translate" transform="translate(1048.000000, 12.000000)">
+                        <g id="Group-10" transform="translate(0.000000, 3.000000)">
+                            <circle id="Oval" stroke="#444444" cx="1" cy="1" r="1"></circle>
+                            <polygon id="Path-261" stroke="#444444" points="0 2 0 11 0.935933773 11 0.935933773 2"></polygon>
+                            <path d="M2,2.36545049 L2,8.90122167 C2.73903021,9.1482487 3.27942252,8.93194773 3.62117695,8.25231874 C3.96293138,7.57268976 4.94598919,7.27187038 6.57035037,7.34986059 C7.61825062,7.51889741 8.2403039,7.81971679 8.43651019,8.25231874 C8.63271649,8.6849207 9.18810362,8.90122167 10.1026716,8.90122167 C11.1746562,8.87957707 11.7768225,8.66327609 11.9091706,8.25231874 C12.0415186,7.8413614 12.4051284,7.63588272 13,7.63588272 L13,1.07147451 C12.1916115,0.88798861 11.598911,1.0577798 11.2218985,1.58084807 C10.6563798,2.36545049 8.9798841,2.19397648 8.84857815,1.88741228 C8.7172722,1.58084807 7.62835331,0.867098375 6.3429097,1.07147451 C5.48594729,1.20772526 4.03831073,1.63905059 2,2.36545049 Z" id="Path-262" stroke="#000000"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="12px" viewBox="0 0 11 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop---Öppenvård" transform="translate(-835.000000, -15.000000)" stroke="#000000">
+            <g id="Group-2">
+                <g id="Subnav">
+                    <g id="Lyssna" transform="translate(836.000000, 12.000000)">
+                        <g id="Group" transform="translate(0.000000, 4.000000)">
+                            <circle id="Oval-2" fill="#000000" cx="6" cy="4" r="1"></circle>
+                            <path d="M2,0 C-0.666666667,2.85814649 -0.666666667,5.52481316 2,8" id="Path-266"></path>
+                            <path d="M9,3.25172986 C8.83918218,0.975913413 7.67659079,-0.105306452 5.51222583,0.00807026399 C2.26567839,0.178135338 1.82896369,2.80654533 2.04732104,3.73032434 C2.19289261,4.34617701 2.25107816,4.7160987 2.22187771,4.8400894 C2.79176025,5.76342616 3.38825913,6.39395348 4.01137435,6.73167136 C4.94604718,7.23824817 5.51222583,8.37913153 5.51222583,9.09147502 C5.51222583,9.80381851 6.73308892,10.1171725 7.17070806,9.96049549 C7.6083272,9.80381851 8.70050157,9.79091287 9,8.45330885" id="Path-267"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
